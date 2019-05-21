@@ -1,0 +1,5 @@
+com\buyernew\util\buyer\BuyerRepository.class
+com\buyernew\util\buyer\Buyer.class
+com\buyernew\util\buyer\BuyerController.class
+com\buyernew\util\buyer\BuyerService.class
+com\buyernew\util\BuyerNewApplication.class
